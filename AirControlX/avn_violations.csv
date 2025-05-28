@@ -1,0 +1,87 @@
+AVNID,FlightID(FlightNumber),Airline,ViolationType,Phase,Timestamp,Processed,PenaltyAmount,PaymentStatus,DueDate
+AVN-000001,AirBlue-777,AirBlue,unknown,Gate,1747138944,true,520000,unpaid,2025-05-16 17:22:24
+AVN-000002,AirBlue-335,AirBlue,unknown,Gate,1747138944,true,485000,unpaid,2025-05-16 17:22:24
+AVN-000003,Blue Dart-530,Blue Dart,unknown,Gate,1747138944,true,742000,unpaid,2025-05-16 17:22:24
+AVN-000004,AirBlue-777,AirBlue,unknown,Taxi,1747138946,true,465000,unpaid,2025-05-16 17:22:26
+AVN-000005,AirBlue-335,AirBlue,unknown,Gate,1747138946,true,505000,unpaid,2025-05-16 17:22:26
+AVN-000006,Blue Dart-530,Blue Dart,unknown,Taxi,1747138946,true,679000,unpaid,2025-05-16 17:22:26
+AVN-000007,AirBlue-777,AirBlue,unknown,Takeoff,1747138948,true,475000,unpaid,2025-05-16 17:22:28
+AVN-000008,AirBlue-335,AirBlue,unknown,Taxi,1747138948,true,545000,unpaid,2025-05-16 17:22:28
+AVN-000009,Blue Dart-530,Blue Dart,unknown,Taxi,1747138948,true,742000,unpaid,2025-05-16 17:22:28
+AVN-000010,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138950,true,918000,unpaid,2025-05-16 17:22:30
+AVN-000011,Blue Dart-530,Blue Dart,unknown,Taxi,1747138950,true,707000,unpaid,2025-05-16 17:22:30
+AVN-000012,AirBlue-335,AirBlue,unknown,Taxi,1747138950,true,535000,unpaid,2025-05-16 17:22:30
+AVN-000013,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138952,true,882000,unpaid,2025-05-16 17:22:32
+AVN-000014,Blue Dart-530,Blue Dart,unknown,Taxi,1747138952,true,735000,unpaid,2025-05-16 17:22:32
+AVN-000015,AirBlue-335,AirBlue,unknown,Takeoff,1747138952,true,485000,unpaid,2025-05-16 17:22:32
+AVN-000016,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138954,true,936000,unpaid,2025-05-16 17:22:34
+AVN-000017,AirBlue-335,AirBlue,unknown,Takeoff,1747138954,true,455000,unpaid,2025-05-16 17:22:34
+AVN-000018,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138956,true,972000,unpaid,2025-05-16 17:22:36
+AVN-000019,AirBlue-335,AirBlue,unknown,Takeoff,1747138956,true,525000,unpaid,2025-05-16 17:22:36
+AVN-000020,AirBlue-777,AirBlue,approach speed violation,Approach,1747138958,true,1.485e+06,unpaid,2025-05-16 17:22:38
+AVN-000021,AirBlue-335,AirBlue,unknown,Takeoff,1747138958,true,535000,unpaid,2025-05-16 17:22:38
+AVN-000022,AirBlue-777,AirBlue,approach speed violation,Approach,1747138960,true,1.575e+06,unpaid,2025-05-16 17:22:40
+AVN-000023,AirBlue-335,AirBlue,cruise speed violation,Cruise,1747138960,true,927000,unpaid,2025-05-16 17:22:40
+AVN-000024,AirBlue-777,AirBlue,approach speed violation,Approach,1747138962,true,1.62e+06,unpaid,2025-05-16 17:22:42
+AVN-000025,AirBlue-335,AirBlue,cruise speed violation,Cruise,1747138962,true,882000,unpaid,2025-05-16 17:22:42
+AVN-000026,AirBlue-777,AirBlue,landing speed violation,Landing,1747138964,true,1.74375e+06,paid,2025-05-16 17:22:44
+AVN-000027,AirBlue-335,AirBlue,approach speed violation,Approach,1747138964,true,1.515e+06,unpaid,2025-05-16 17:22:44
+AVN-000028,AirBlue-777,AirBlue,landing speed violation,Landing,1747138966,true,1.8375e+06,unpaid,2025-05-16 17:22:46
+AVN-000029,AirBlue-335,AirBlue,approach speed violation,Approach,1747138966,true,1.485e+06,unpaid,2025-05-16 17:22:46
+AVN-000030,AirBlue-777,AirBlue,unknown,Taxi,1747138968,true,530000,unpaid,2025-05-16 17:22:48
+AVN-000031,AirBlue-335,AirBlue,approach speed violation,Approach,1747138968,true,1.41e+06,unpaid,2025-05-16 17:22:48
+AVN-000032,AirBlue-777,AirBlue,unknown,Takeoff,1747138970,true,465000,unpaid,2025-05-16 17:22:50
+AVN-000033,AirBlue-335,AirBlue,approach speed violation,Approach,1747138970,true,1.395e+06,unpaid,2025-05-16 17:22:50
+AVN-000034,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138972,true,927000,unpaid,2025-05-16 17:22:52
+AVN-000035,AirBlue-335,AirBlue,approach speed violation,Approach,1747138972,true,1.62e+06,unpaid,2025-05-16 17:22:52
+AVN-000036,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138974,true,846000,unpaid,2025-05-16 17:22:54
+AVN-000037,AirBlue-335,AirBlue,approach speed violation,Approach,1747138974,true,1.59e+06,unpaid,2025-05-16 17:22:54
+AVN-000038,AirBlue-777,AirBlue,approach speed violation,Approach,1747138976,true,1.38e+06,unpaid,2025-05-16 17:22:56
+AVN-000039,AirBlue-335,AirBlue,landing speed violation,Landing,1747138976,true,1.9875e+06,unpaid,2025-05-16 17:22:56
+AVN-000040,AirBlue-777,AirBlue,landing speed violation,Landing,1747138978,true,1.81875e+06,unpaid,2025-05-16 17:22:58
+AVN-000041,AirBlue-335,AirBlue,landing speed violation,Landing,1747138978,true,1.78125e+06,unpaid,2025-05-16 17:22:58
+AVN-000042,AirBlue-777,AirBlue,landing speed violation,Landing,1747138980,true,1.9875e+06,unpaid,2025-05-16 17:23:00
+AVN-000043,AirBlue-335,AirBlue,landing speed violation,Landing,1747138980,true,2.04375e+06,unpaid,2025-05-16 17:23:00
+AVN-000044,AirBlue-777,AirBlue,landing speed violation,Landing,1747138982,true,2.025e+06,unpaid,2025-05-16 17:23:02
+AVN-000045,AirBlue-335,AirBlue,landing speed violation,Landing,1747138982,true,1.81875e+06,unpaid,2025-05-16 17:23:02
+AVN-000046,AirBlue-777,AirBlue,unknown,Taxi,1747138984,true,510000,unpaid,2025-05-16 17:23:04
+AVN-000047,AirBlue-777,AirBlue,unknown,Takeoff,1747138986,true,490000,unpaid,2025-05-16 17:23:06
+AVN-000048,AirBlue-777,AirBlue,unknown,Takeoff,1747138988,true,510000,unpaid,2025-05-16 17:23:08
+AVN-000049,AirBlue-777,AirBlue,unknown,Takeoff,1747138990,true,545000,unpaid,2025-05-16 17:23:10
+AVN-000050,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747138992,true,891000,unpaid,2025-05-16 17:23:12
+AVN-000051,AirBlue-777,AirBlue,approach speed violation,Approach,1747138994,true,1.59e+06,unpaid,2025-05-16 17:23:14
+AVN-000052,AirBlue-777,AirBlue,approach speed violation,Approach,1747138996,true,1.5e+06,unpaid,2025-05-16 17:23:16
+AVN-000053,AirBlue-777,AirBlue,approach speed violation,Approach,1747138998,true,1.38e+06,unpaid,2025-05-16 17:23:18
+AVN-000054,AirBlue-777,AirBlue,approach speed violation,Approach,1747139000,true,1.455e+06,unpaid,2025-05-16 17:23:20
+AVN-000055,AirBlue-777,AirBlue,approach speed violation,Approach,1747139002,true,1.44e+06,unpaid,2025-05-16 17:23:22
+AVN-000056,AirBlue-777,AirBlue,approach speed violation,Approach,1747139004,true,1.365e+06,unpaid,2025-05-16 17:23:24
+AVN-000057,AirBlue-777,AirBlue,approach speed violation,Approach,1747139006,true,1.38e+06,unpaid,2025-05-16 17:23:26
+AVN-000058,AirBlue-777,AirBlue,landing speed violation,Landing,1747139008,true,1.8375e+06,unpaid,2025-05-16 17:23:28
+AVN-000059,AirBlue-777,AirBlue,unknown,Taxi,1747139010,true,490000,unpaid,2025-05-16 17:23:30
+AVN-000060,AirBlue-777,AirBlue,unknown,Taxi,1747139012,true,495000,unpaid,2025-05-16 17:23:32
+AVN-000061,AirBlue-777,AirBlue,unknown,Taxi,1747139014,true,510000,unpaid,2025-05-16 17:23:34
+AVN-000062,AirBlue-777,AirBlue,unknown,Taxi,1747139016,true,490000,unpaid,2025-05-16 17:23:36
+AVN-000063,AirBlue-777,AirBlue,unknown,Taxi,1747139018,true,540000,unpaid,2025-05-16 17:23:38
+AVN-000064,AirBlue-777,AirBlue,unknown,Taxi,1747139020,true,540000,unpaid,2025-05-16 17:23:40
+AVN-000065,AirBlue-777,AirBlue,unknown,Takeoff,1747139022,true,530000,unpaid,2025-05-16 17:23:42
+AVN-000066,AirBlue-777,AirBlue,unknown,Takeoff,1747139024,true,490000,unpaid,2025-05-16 17:23:44
+AVN-000067,AirBlue-777,AirBlue,unknown,Takeoff,1747139026,true,515000,unpaid,2025-05-16 17:23:46
+AVN-000068,AirBlue-777,AirBlue,unknown,Takeoff,1747139028,true,490000,unpaid,2025-05-16 17:23:48
+AVN-000069,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747139030,true,837000,unpaid,2025-05-16 17:23:50
+AVN-000070,AirBlue-777,AirBlue,approach speed violation,Approach,1747139032,true,1.545e+06,unpaid,2025-05-16 17:23:52
+AVN-000071,AirBlue-777,AirBlue,landing speed violation,Landing,1747139034,true,1.6875e+06,unpaid,2025-05-16 17:23:54
+AVN-000072,AirBlue-777,AirBlue,landing speed violation,Landing,1747139036,true,2.025e+06,unpaid,2025-05-16 17:23:56
+AVN-000073,AirBlue-777,AirBlue,landing speed violation,Landing,1747139038,true,1.89375e+06,unpaid,2025-05-16 17:23:58
+AVN-000074,AirBlue-777,AirBlue,unknown,Taxi,1747139040,true,495000,unpaid,2025-05-16 17:24:00
+AVN-000075,AirBlue-777,AirBlue,unknown,Taxi,1747139042,true,495000,unpaid,2025-05-16 17:24:02
+AVN-000076,AirBlue-777,AirBlue,unknown,Taxi,1747139044,true,485000,unpaid,2025-05-16 17:24:04
+AVN-000077,AirBlue-777,AirBlue,unknown,Taxi,1747139046,true,490000,unpaid,2025-05-16 17:24:06
+AVN-000078,AirBlue-777,AirBlue,unknown,Takeoff,1747139048,true,510000,unpaid,2025-05-16 17:24:08
+AVN-000079,AirBlue-777,AirBlue,unknown,Takeoff,1747139050,true,525000,unpaid,2025-05-16 17:24:10
+AVN-000080,AirBlue-777,AirBlue,unknown,Takeoff,1747139052,true,465000,unpaid,2025-05-16 17:24:12
+AVN-000081,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747139054,true,846000,unpaid,2025-05-16 17:24:14
+AVN-000082,AirBlue-777,AirBlue,cruise speed violation,Cruise,1747139056,true,891000,unpaid,2025-05-16 17:24:16
+AVN-000083,AirBlue-777,AirBlue,approach speed violation,Approach,1747139058,true,1.5e+06,unpaid,2025-05-16 17:24:18
+AVN-000084,AirBlue-777,AirBlue,approach speed violation,Approach,1747139060,true,1.38e+06,unpaid,2025-05-16 17:24:20
+AVN-000085,AirBlue-777,AirBlue,landing speed violation,Landing,1747139062,true,1.6875e+06,unpaid,2025-05-16 17:24:22
+AVN-000086,AirBlue-777,AirBlue,landing speed violation,Landing,1747139064,true,1.9125e+06,unpaid,2025-05-16 17:24:24
